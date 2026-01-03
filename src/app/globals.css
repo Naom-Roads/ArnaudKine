@@ -3,13 +3,12 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #002400;
-  --primary: #58641D;
-  --primary-dark: #273B09;
-  --secondary: #002400;
-  --accent: #7B904B;
-  --light: #DBD2E0;
+  --background: #191720;
+  --foreground: #ffffff;
+  --primary: #90B7DB;
+  --secondary: #766B53;
+  --accent: #9E816A;
+  --muted: #6B6A71;
 }
 
 html {
@@ -17,6 +16,12 @@ html {
 }
 
 body {
-  background: var(--background);
+  background:
+    linear-gradient(180deg, rgba(25, 23, 32, 0.92) 0%, rgba(25, 23, 32, 0.88) 45%, rgba(25, 23, 32, 0.92) 100%),
+    url("/assets/Arnaud%20Cabinet%20Pictures/Visual%20ID/2.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: var(--foreground);
 }
