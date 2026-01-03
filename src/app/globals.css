@@ -1,11 +1,15 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
   --background: #ffffff;
-  --foreground: #1a1a2e;
-  --primary: #16a085;
-  --primary-dark: #0e7c67;
-  --secondary: #2c3e50;
+  --foreground: #002400;
+  --primary: #58641D;
+  --primary-dark: #273B09;
+  --secondary: #002400;
+  --accent: #7B904B;
+  --light: #DBD2E0;
 }
 
 html {
