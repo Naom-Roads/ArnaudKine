@@ -7,8 +7,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Cabinet de Chiropraxie Arnaud | Soins Chiropratiques en France",
-  description: "Cabinet de chiropraxie professionnel. Soulagement des douleurs dorsales, cervicales et articulaires. Prenez rendez-vous dès aujourd'hui.",
+  title: "Cabinet d'Ostéopathie Arnaud Fornetran | Ostéopathe La Norville",
+  description: "Cabinet d'ostéopathie à La Norville. Soulagement des douleurs dorsales, cervicales et articulaires. Consultations pour adultes, enfants, femmes enceintes et sportifs.",
 };
 
 export default function RootLayout({

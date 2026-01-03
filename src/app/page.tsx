@@ -33,7 +33,7 @@ export default function Home() {
           <div className="flex flex-col lg:flex-row items-center gap-12">
             <div className="flex-1 text-center lg:text-left">
               <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
-                Une chiropraxie <span className="text-[#90B7DB]">moderne</span>, une expérience apaisante
+                Une ostéopathie <span className="text-[#90B7DB]">moderne</span>, une expérience apaisante
               </h1>
               <p className="text-lg text-white/75 mb-8 max-w-xl">
                 Une approche personnalisée pour soulager vos douleurs, améliorer votre posture et vous aider à retrouver une mobilité durable.
@@ -144,7 +144,7 @@ export default function Home() {
             <div className="flex-1">
               <h2 className="text-3xl md:text-4xl font-bold mb-6">À Propos</h2>
               <p className="text-white/70 mb-4">
-                Chiropracteur diplômé avec plusieurs années d&apos;expérience, je vous accueille dans mon cabinet 
+                Ostéopathe D.O. diplômé avec plusieurs années d&apos;expérience, je vous accueille dans mon cabinet 
                 pour des soins personnalisés et adaptés à vos besoins.
               </p>
               <p className="text-white/70 mb-6">
@@ -290,7 +290,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-white/10 mt-8 pt-8 text-center text-white/60">
-            <p>© 2026 Cabinet de Chiropraxie Arnaud. Tous droits réservés.</p>
+            <p>© 2026 Cabinet d'Ostéopathie Arnaud Fornetran. Tous droits réservés.</p>
           </div>
         </div>
       </footer>
